@@ -2,7 +2,7 @@
 
 #### 🙋‍♂️ About Me
 
-* 🌱 I’m currently studying Interactive media Undergraduate at SLIIT.
+* ✔  I’m currently studying Interactive media Undergraduate at SLIIT.
 
 
 
