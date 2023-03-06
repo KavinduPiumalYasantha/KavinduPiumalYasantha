@@ -30,4 +30,4 @@
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KavinduPiumalYasantha&theme=dark&background=000000)](https://git.io/streak-stats)
 </br>
 </br>
-<a href="https://github.com/KavinduPiumalYasantha/github-readme-activity-graph"><img alt="Kavindu Piumal Yasantha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KavinduPiumalYasantha&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
